@@ -15,7 +15,7 @@ Smart SEO - WordPress Search Engine Optimization Tools
 This plugin optimizes WordPress for better ranking in Google and other Search Engines
 * Add post excerpt as Meta Description
 Validated by:
-https://wpreadme.com/
+https://wpreadme.com
 https://wordpress.org/plugins/developers/readme-validator
 
 == Installation ==
